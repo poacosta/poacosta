@@ -1,16 +1,19 @@
-### Hi there 👋
+## Wanna know more about me?
+``` 
+> follow the white rabbit 🐰
+> or maybe just use the links
+```
 
-<!--
-**poacosta/poacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About my career
+* [LinkedIn](www.linkedin.com/in/poacosta77)
 
-Here are some ideas to get you started:
+### 🌱 About my learning pathways
+* [Google Devs](https://g.dev/poacosta)
+* [Pluralsight](https://app.pluralsight.com/profile/poacosta)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 How do I have fun?
+* [Goodreads](https://www.goodreads.com/user/show/141287714-pedro-acosta)
+
+### 🧮 Can I code?
+* [Codewars](https://www.codewars.com/users/poacosta87)
+* [Exercism](https://exercism.org/profiles/poacosta)
