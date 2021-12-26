@@ -5,7 +5,7 @@
 ```
 
 ### 💻 About my career
-* [LinkedIn](www.linkedin.com/in/poacosta77)
+* [LinkedIn](https://www.linkedin.com/in/poacosta77)
 
 ### 🌱 About my learning pathways
 * [Google Devs](https://g.dev/poacosta)
