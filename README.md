@@ -16,4 +16,5 @@
 
 ### 🧮 Can I code?
 * [Codewars](https://www.codewars.com/users/poacosta87)
+* [CodeSignal](https://app.codesignal.com/profile/poacosta)
 * [Exercism](https://exercism.org/profiles/poacosta)
