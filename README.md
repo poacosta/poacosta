@@ -8,8 +8,8 @@
 * [LinkedIn](https://www.linkedin.com/in/poacosta77)
 
 ### 🌱 About my learning pathways
-* [Google Devs](https://g.dev/poacosta)
 * [Pluralsight](https://app.pluralsight.com/profile/poacosta)
+* [Google Devs](https://g.dev/poacosta)
 
 ### 📚 How do I have fun?
 * [Goodreads](https://www.goodreads.com/user/show/141287714-pedro-acosta)
