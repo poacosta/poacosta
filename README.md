@@ -9,6 +9,7 @@
 
 ### 🌱 About my learning pathways
 * [Pluralsight](https://app.pluralsight.com/profile/poacosta)
+* [Coursera](https://www.coursera.org/user/2ac5fd131890c22245a0ef08e29e5e99)
 * [Google Devs](https://g.dev/poacosta)
 
 ### 📚 How do I have fun?
