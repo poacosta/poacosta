@@ -22,6 +22,6 @@
 * [Exercism](https://exercism.org/profiles/poacosta)
 
 
-### Past years
+### 🗓️ Past years
 * [Skyline 2021](https://skyline.github.com/poacosta/2021)
 * [Skyline 2020](https://skyline.github.com/poacosta/2020)
