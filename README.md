@@ -20,3 +20,8 @@
 * [Codewars](https://www.codewars.com/users/poacosta87)
 * [CodeSignal](https://app.codesignal.com/profile/poacosta)
 * [Exercism](https://exercism.org/profiles/poacosta)
+
+
+### Past years
+* [Skyline 2021](https://skyline.github.com/poacosta/2021)
+* [Skyline 2020](https://skyline.github.com/poacosta/2020)
