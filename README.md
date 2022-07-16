@@ -23,5 +23,9 @@
 
 
 ### 🗓️ Past years
-* [Skyline 2021](https://skyline.github.com/poacosta/2021)
-* [Skyline 2020](https://skyline.github.com/poacosta/2020)
+* **2021**
+  * [Skyline](https://skyline.github.com/poacosta/2021)
+  * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2021)
+* **2020**
+  * [Skyline](https://skyline.github.com/poacosta/2020)
+  * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2020)
