@@ -11,6 +11,7 @@
 * [Pluralsight](https://app.pluralsight.com/profile/poacosta)
 * [Coursera](https://www.coursera.org/user/2ac5fd131890c22245a0ef08e29e5e99)
 * [Google Devs](https://g.dev/poacosta)
+* [The Pragmatic Studio](https://pragmaticstudio.com/alumni/poacosta)
 
 ### 📚 How do I have fun?
 * [Goodreads](https://www.goodreads.com/user/show/141287714-pedro-acosta)
