@@ -4,6 +4,9 @@
 > or maybe just use the links
 ```
 
+### 🧰 My Skill Set
+* [Personal website](https://pedroacosta.dev/)
+
 ### 💻 About my career
 * [LinkedIn](https://www.linkedin.com/in/poacosta77)
 
@@ -22,11 +25,10 @@
 * [CodeSignal](https://app.codesignal.com/profile/poacosta)
 * [Exercism](https://exercism.org/profiles/poacosta)
 
-
-### 🗓️ Past years
+### 🗓️ Past years in charts
 * **2021**
   * [Skyline](https://skyline.github.com/poacosta/2021)
   * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2021)
-* **2020**
-  * [Skyline](https://skyline.github.com/poacosta/2020)
-  * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2020)
+* **2022**
+  * [Skyline](https://skyline.github.com/poacosta/2022)
+  * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2022)
