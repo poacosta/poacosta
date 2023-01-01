@@ -25,6 +25,5 @@
 * [CodeSignal](https://app.codesignal.com/profile/poacosta)
 * [Exercism](https://exercism.org/profiles/poacosta)
 
-### 🗓️ Past years
-![contributions - cropped](https://user-images.githubusercontent.com/10746837/210158604-c7d37a4e-5d4c-4c83-8026-64c7ad73df57.png)
-
+### 🗓️ Past years on :octocat:
+![contributions -dark](https://user-images.githubusercontent.com/10746837/210184565-5174d880-a1fb-4079-92fe-3bee2ca45356.png)
