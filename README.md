@@ -25,10 +25,6 @@
 * [CodeSignal](https://app.codesignal.com/profile/poacosta)
 * [Exercism](https://exercism.org/profiles/poacosta)
 
-### 🗓️ Past years in charts
-* **2021**
-  * [Skyline](https://skyline.github.com/poacosta/2021)
-  * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2021)
-* **2022**
-  * [Skyline](https://skyline.github.com/poacosta/2022)
-  * [GitHub City](https://honzaap.github.io/GithubCity/?name=poacosta&year=2022)
+### 🗓️ Past years
+![contributions - cropped](https://user-images.githubusercontent.com/10746837/210158604-c7d37a4e-5d4c-4c83-8026-64c7ad73df57.png)
+
