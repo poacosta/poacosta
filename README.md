@@ -23,6 +23,7 @@
 [![badge-profile](https://www.codewars.com/users/poacosta87/badges/large)](https://www.codewars.com/users/poacosta87)
 * [Codewars](https://www.codewars.com/users/poacosta87)
 * [CodeSignal](https://app.codesignal.com/profile/poacosta)
+* [HackerRank](https://www.hackerrank.com/poacosta87)
 * [Exercism](https://exercism.org/profiles/poacosta)
 
 ### 🗓️ Past years on :octocat:
