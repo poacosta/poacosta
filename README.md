@@ -25,6 +25,3 @@
 * [CodeSignal](https://app.codesignal.com/profile/poacosta)
 * [HackerRank](https://www.hackerrank.com/poacosta87)
 * [Exercism](https://exercism.org/profiles/poacosta)
-
-### 🗓️ Past years on :octocat:
-![contributions -dark](https://user-images.githubusercontent.com/10746837/210184565-5174d880-a1fb-4079-92fe-3bee2ca45356.png)
