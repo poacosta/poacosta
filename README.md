@@ -26,7 +26,7 @@ $ ./load_expertise.sh
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100%
 
 [INFO] Initializing experience modules...
-[OK]   ├─ 14 years of production experience loaded
+[OK]   ├─ 15+ years of production experience loaded
 [OK]   ├─ Enterprise applications (Fintech, Edtech, E-commerce) initialized
 [OK]   ├─ CTO & Engineering Leadership modules active
 [OK]   └─ M.Eng. Big Data & Data Engineering certified
@@ -82,7 +82,7 @@ $ history | tail -1
 > Then I discovered: software is the universal language."
 
 $ uptime
-14 years of turning concepts into production reality
+Since 2011 turning concepts into production reality
 
 $ sudo make-impact
 [sudo] password for pedro_acosta: ********
