@@ -109,20 +109,20 @@ $ ls ~/links/
 ┌──────────────────────────────────────────────────────────────────────┐
 │  CONNECT                                                             │
 ├──────────────────────────────────────────────────────────────────────┤
-│  Portfolio EN → https://pedroacosta.dev/                              │
-│  Portfolio ES → https://pedroacosta.dev/es/                           │
-│  Blog EN      → https://pedroacosta.dev/blog/                         │
-│  Blog ES      → https://pedroacosta.dev/es/blog/                      │
-│  LinkedIn     → https://linkedin.com/in/poacosta77                    │
+│  Portfolio EN → https://pedroacosta.dev/                             │
+│  Portfolio ES → https://pedroacosta.dev/es/                          │
+│  Blog EN      → https://pedroacosta.dev/blog/                        │
+│  Blog ES      → https://pedroacosta.dev/es/blog/                     │
+│  LinkedIn     → https://linkedin.com/in/poacosta77                   │
 │  Email        → contact@pedroacosta.dev                              │
 ├──────────────────────────────────────────────────────────────────────┤
 │  LEARN & EXPLORE                                                     │
 ├──────────────────────────────────────────────────────────────────────┤
-│  Pluralsight  → https://app.pluralsight.com/profile/poacosta          │
-│  Google Devs  → https://g.dev/poacosta                                │
-│  Codewars     → https://codewars.com/users/poacosta87                 │
-│  Exercism     → https://exercism.org/profiles/poacosta                │
-│  Goodreads    → https://goodreads.com/user/show/141287714             │
+│  Pluralsight  → https://app.pluralsight.com/profile/poacosta         │
+│  Google Devs  → https://g.dev/poacosta                               │
+│  Codewars     → https://codewars.com/users/poacosta87                │
+│  Exercism     → https://exercism.org/profiles/poacosta               │
+│  Goodreads    → https://goodreads.com/user/show/141287714            │
 └──────────────────────────────────────────────────────────────────────┘
 
 $ history | tail -1
